@@ -1,9 +1,5 @@
-# R2Boilerplate
+# Artifact Of Care
 
-This repository contains a sample mod for Risk of Rain 2.
+This mod simply toggles ShareSuite with an Artifact. Hope you'll enjoy it <3
 
-You can clone this repository, open the visual studio solution file and compile it immediately.
-
-This repository is meant to represent best practices for starting a simple mod.
-
-Once your mod get compiled, you can utilize the Thunderstore folder for later uploading it to https://thunderstore.io/c/riskofrain2/
+Thunderstore link: Gimme a sec
